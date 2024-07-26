@@ -7,7 +7,11 @@
 </head>
 <body>
     <input id="input-email" type="text" placeholder= "E-mail"></input>
+    <br>
+    <br>
     <input id="input-email" type="password" placeholder= "Senha"></input>
+    <br>
+    <br>
     <button id='submit' onclick="submit()">Entrar</button>
     <?php
         echo "Olá, Luiz!"    
