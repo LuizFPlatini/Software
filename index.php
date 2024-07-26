@@ -9,6 +9,9 @@
     <input id="input-email" type="text" placeholder= "E-mail"></input>
     <input id="input-email" type="password" placeholder= "Senha"></input>
     <button id='submit' onclick="submit()">Entrar</button>
+    <?php
+        echo "Olá, Luiz!"    
+    ?>
 
 </body>
 </html>
